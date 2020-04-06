@@ -1,0 +1,30 @@
+{
+	"compilerOptions": 
+	{
+		"strict": true,
+		"incremental": true,
+		"allowJs": true,
+		"outDir": "dist/",
+		"rootDir": "./",
+		"esModuleInterop": true,
+		"tsBuildInfoFile": ".tsBuildInfoFile",
+		"jsx": "react",
+		"module": "commonjs",
+		"sourceMap": true,
+		"target": "ES2017",
+		"lib":
+		[
+			"dom",
+			"es2017"
+		]
+	},
+	"include": 
+	[
+		"./src/**/*",
+		"./spec/**/*"
+    ],	
+	"exclude":
+	[
+		"node_modules"
+	]
+}

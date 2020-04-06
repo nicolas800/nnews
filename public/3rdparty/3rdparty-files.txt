@@ -1,0 +1,15 @@
+The following 3rd-party applications are bundled as it for your convenience:
+
+par2cmdline with thread building blocks, 32-bit and 64-bit version
+License: GPL
+Source available at: http://www.chuchusoft.com/par2_tbb/index.html
+
+phpar2 available at : http://paulhoule.com/phpar2/
+License: GPL
+
+7zip 
+from https://www.7-zip.org
+license : https://www.7-zip.org/license.txt
+
+Unrar
+from https://www.rarlab.com/download.htm
